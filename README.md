@@ -12,7 +12,7 @@ Simple y práctico editor de texto solo html en línea. Edita texto en una plant
 > * enlace abre en nueva ventana,
 > * Borde, color, fondo.
 > * No javascript.
-
+____
 El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo para los desarrolladores y usuarios. Aquí te dejo un resumen:
 
 ### Ventajas
@@ -31,7 +31,22 @@ El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo par
 - **Prototipado Rápido**: Los desarrolladores pueden usarlo para crear prototipos de aplicaciones que requieren funcionalidad de edición de texto.
 
 En resumen, el Editor de Texto de Enlineaweb es una herramienta versátil que combina facilidad de uso, personalización y la ventaja de ser un proyecto de código abierto, lo que lo convierte en una opción valiosa para múltiples aplicaciones.
+_____
+## Varias características interesantes que hacen único el Editor de Text
+1. **Edición en Tiempo Real**: Permite ver los cambios al instante, lo que facilita la corrección y mejora de contenido sin necesidad de recargar la página manualmente.
 
+2. **Sin Errores**: La implementación de un sistema robusto puede ayudar a minimizar errores, posiblemente utilizando validaciones y controles para asegurar que el texto ingresado sea correcto.
+
+3. **Acceso Local**: Al abrir el archivo `editor-de-texto.html` desde una carpeta local, se puede trabajar directamente desde el navegador sin necesidad de un servidor web, lo que lo hace accesible y fácil de usar.
+
+4. **Actualización Automática**: La capacidad de refrescar automáticamente la vista del editor al realizar cambios es una característica muy útil para el desarrollo y la edición de texto.
+
+5. **Copia de Seguridad**: La opción de copiar el archivo de seguridad y restaurarlo a su estado inicial es esencial para prevenir la pérdida de datos y permite revertir cambios no deseados.
+
+6. **Interfaz de Usuario**: Es probable que el diseño de la interfaz sea intuitivo, lo que mejora la experiencia del usuario y facilita la navegación.
+
+Estas características combinadas hacen que el editor sea una herramienta poderosa para quienes necesitan editar texto de manera eficiente y segura. Si necesitas más información sobre su funcionamiento específico o sobre cómo implementarlo, ¡déjamelo saber!
+____
 ### **Próximamente se agregarán mas funciones.**
 
 ## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
