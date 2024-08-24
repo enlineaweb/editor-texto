@@ -54,4 +54,4 @@ ____
 
 ## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
 
-Descarga el código de texto html en archivo ZIP, luego descomprimir carpeta, y comienza a editar texto.
+Descarga el código de texto html en archivo TXT, luego descomprimir carpeta, y comienza a editar texto.
