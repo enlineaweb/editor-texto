@@ -1,5 +1,5 @@
 	<!-- 
-	AVISO DERECHO DE AUTOR 
+	AVISO DERECHO DE AUTOR
 	| Copyright © | Nolan Tejada | 2024 | Derechos de Autor. 
 	| No Puede Vender Distribuir Negociar Comerciar Copiar Este Código de Plantilla Web Genial Sin el Previo Consentimiento del Autor Esta Acción Tiene Consecuencias Legales.
 	| No Puede Retirar Este Aviso de Esta Plantilla.
@@ -15,6 +15,21 @@
 	<meta name="Keywords" content="texto, imagen, logo, video, animacion, retrato, arte, diseño..." />
 	<meta name="Author" content="Nolan Tejada" />
 	<meta name="Copyright" content="© https://digitalrecurso.com/ia" />
+
+<style>
+	/* --- ENLACE --- */
+
+	/* Color del Enlace */
+	.enlace {
+	color: blue; /* Color del Enlace */
+	text-decoration: none; /* Subrayado Nulo */
+	}
+
+	/* Enlace Cambia de Color con el Cursor Encima */
+	.enlace:hover {
+	color: red; /* Color del Enlace con el Cursor Encima */    
+  }
+</style>
 
 <div>	
 <!-- Bloque de Texto Borde Color Fondo -->
@@ -32,14 +47,21 @@ Editor de Texto Gratis<br>
 
 	<!-- Enlace Abre en Nueva Ventana -->
 <p style='font-size:30px;color:no;font-family:trebuchet ms;text-align:center;margin:10px;padding:10px;max-width:99%;background:lightblue;border:solid black 3px;border-radius:30px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);font-weight: no;font-style: none;box-shadow:transparent;'>
-	<a href="https://digitalrecurso.com/archivo/web-genial/editor-texto.txt" target='_blank' style='text-decoration: none;'>
+	<a href="https://digitalrecurso.com/archivo/web-genial/editor-texto.txt" target='_blank' style='text-decoration: none;' class='enlace'>
 Enlace Copiar Editor TXT
 	</a>
 	</p>
 
 	<!-- Enlace Abre en Nueva Ventana -->
+<p style='font-size:30px;color:no;font-family:trebuchet ms;text-align:center;margin:10px;padding:10px;max-width:99%;background:lightblue;border:solid black 3px;border-radius:30px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);font-weight: no;font-style: none;box-shadow:transparent;'>
+	<a href="https://digitalrecurso.com/archivo/web-genial/editor-texto.html" target='_blank' style='text-decoration: none;' class='enlace'>
+Enlace Copiar Editor HTML
+	</a>
+	</p>
+
+	<!-- Enlace Abre en Nueva Ventana -->
 <p style='font-size:30px;color:no;font-family:trebuchet ms;text-align:center;margin:10px;padding:10px;max-width:99%;background:lightgreen;border:solid black 3px;border-radius:30px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);font-weight: no;font-style: italic;box-shadow:transparent;'>
-	<a href="https://digitalrecurso.com/ia" target='_blank' style='text-decoration: none;'>
+	<a href="https://digitalrecurso.com/ia" target='_blank' style='text-decoration: none;' class='enlace'>
 Enlace Inteligencia Artificial (IA) | Uso Comercial Gratis
 	</a>
 	</p>
