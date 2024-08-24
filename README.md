@@ -5,7 +5,7 @@ Simple y práctico editor de texto solo html en línea. Edita texto en una plant
 > * plantilla web en blanco,
 > * archivo de texto plano,
 > * bloc de notas,
-> * txt,
+> * txt, html,
 > * mensaje vía email,
 > * enlace abre en nueva ventana,
 > * Borde, color, fondo.
