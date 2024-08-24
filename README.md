@@ -1,5 +1,7 @@
 # Editor de Texto HTML Gratis
 
+## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
+
 Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
 
 > [!TIP]
@@ -50,4 +52,5 @@ ____
 ### **Próximamente se agregarán mas funciones.**
 
 ## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
+
 Descarga el código de texto html en archivo ZIP, luego descomprimir carpeta, y comienza a editar texto.
