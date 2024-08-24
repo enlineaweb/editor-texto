@@ -34,7 +34,8 @@ El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo par
 
 En resumen, el Editor de Texto de Enlineaweb es una herramienta versátil que combina facilidad de uso, personalización y la ventaja de ser un proyecto de código abierto, lo que lo convierte en una opción valiosa para múltiples aplicaciones.
 _____
-## Varias características interesantes que hacen único el Editor de Text
+## Varias características interesantes que hacen único el Editor de Texto
+
 1. **Edición en Tiempo Real**: Permite ver los cambios al instante, lo que facilita la corrección y mejora de contenido sin necesidad de recargar la página manualmente.
 
 2. **Sin Errores**: La implementación de un sistema robusto puede ayudar a minimizar errores, posiblemente utilizando validaciones y controles para asegurar que el texto ingresado sea correcto.
