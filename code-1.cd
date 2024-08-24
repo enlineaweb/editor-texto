@@ -1,0 +1,2 @@
+git remote add origin ssh://usuario95@git.code.sf.net/p/editor-de-texto/code
+git push -u origin master
