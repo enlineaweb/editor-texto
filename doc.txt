@@ -63,6 +63,7 @@ Básico
 <!-- Bloque de Texto -->
 <p style='font-size:25px;color:black;font-family:trebuchet ms;text-align:left;margin:10px;padding:10px;max-width:99%;background:no;border:no;border-radius:30px;box-shadow: no;font-weight: no;font-style: none;box-shadow:transparent;'>
 | Es gratis por descarga con archivo de solo texto doc.txt<br>
+| No requiere conocimiento de diseño web, ni saber programación<br>
 | Se edita con bloc de notas y se guarda como archivo web.html en la carpeta local<br>
 | Edita: texto, tipo, color, tamaño, alineación, estilo, fondo, borde, sombra, salto de línea,<br>
 | En título, anular font-size:no; y reemplazar p por, h1, h2, h3...<br>
