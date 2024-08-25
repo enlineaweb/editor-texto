@@ -47,8 +47,8 @@ Editor de Texto Gratis<br>
 
 	<!-- Enlace Abre en Nueva Ventana -->
 <p style='font-size:30px;color:no;font-family:trebuchet ms;text-align:center;margin:10px;padding:10px;max-width:99%;background:lightblue;border:solid black 3px;border-radius:30px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);font-weight: no;font-style: none;box-shadow:transparent;'>
-	<a href="https://digitalrecurso.com/archivo/web-genial/editor-texto.txt" target='_blank' style='text-decoration: none;' class='enlace'>
-Enlace Copiar Editor TXT
+	<a href="https://github.com/enlineaweb/editor-texto" target='_blank' style='text-decoration: none;' class='enlace'>
+Descargar Editor de Texto
 	</a>
 	</p>
 
