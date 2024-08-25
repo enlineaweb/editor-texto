@@ -1,6 +1,6 @@
 # Editor de Texto HTML Gratis
 
-Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
+## Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
 
 > [!TIP]
 > | Es gratis por descarga con archivo de solo texto doc.txt<br>
@@ -17,7 +17,7 @@ Simple y práctico editor de texto solo html en línea. Edita texto en una plant
 > | Anula elementos, opciones no, none, 0, en borde, color, fondo, estilo, sombra,<br>
 > | Genera transparencia en sombra y fondo, opción, transparent,<br>
 ____
-El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo para los desarrolladores y usuarios. Aquí te dejo un resumen:
+### El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo para los desarrolladores y usuarios. Aquí te dejo un resumen:
 
 ### Ventajas
 1. **Código Abierto**: Al ser un proyecto en GitHub, permite a los usuarios contribuir, modificar y personalizar el código según sus necesidades.
