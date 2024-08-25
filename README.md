@@ -1,19 +1,21 @@
 # Editor de Texto HTML Gratis
 
-## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
-
 Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
 
 > [!TIP]
-> * sitio web widget html,
-> * plantilla web en blanco,
-> * archivo de texto plano,
-> * bloc de notas,
-> * txt, html,
-> * mensaje vía email,
-> * enlace abre en nueva ventana,
-> * Borde, color, fondo.
-> * No javascript.
+> | Es gratis por descarga con archivo de solo texto doc.txt
+> | No requiere conocimiento de diseño web, ni saber programación
+> | Se edita con bloc de notas y se guarda como archivo web.html en la carpeta local
+> | Edita: texto, tipo, color, tamaño, alineación, estilo, fondo, borde, sombra, salto de línea,
+> | En título, anular font-size:no; y reemplazar p por, h1, h2, h3...
+> | Edita el archivo doc.txt desde la carpeta local
+> | Edita texto en sitio web mediante widget HTML
+> | Envía mensajes de email opción HTML
+> | Edita plantilla web en blanco mediante web.html edita como texto plano con bloc de notas
+> | Prueba, revisa, los cambios del archivo web.html desde la carpeta local, abrir con el navegador, actualizar, refrescar,ç
+> | Recupera el archivo base doc.txt desde la copia de seguridad, en caso de errores
+> | Anula elementos, opciones no, none, 0, en borde, color, fondo, estilo, sombra,
+> | Genera transparencia en sombra y fondo, opción, transparent,
 ____
 El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo para los desarrolladores y usuarios. Aquí te dejo un resumen:
 
@@ -51,7 +53,5 @@ _____
 Estas características combinadas hacen que el editor sea una herramienta poderosa para quienes necesitan editar texto de manera eficiente y segura. Si necesitas más información sobre su funcionamiento específico o sobre cómo implementarlo, ¡déjamelo saber!
 ____
 ### **Próximamente se agregarán mas funciones.**
-
-## [Descargar Aquí](https://github.com/enlineaweb/editor-texto/blob/main/codigo)
 
 Descarga el código de texto html en archivo TXT, luego descomprimir carpeta, y comienza a editar texto.
