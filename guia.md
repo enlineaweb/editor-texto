@@ -29,6 +29,8 @@ cursiva | font-style: italic;<br>
 
 ##	TÍTULO Y SUBTÍTULO
 
+### Solo basta reemplazar | p | por la etiqueta de título | h1 |
+
 h1, h2, h3, h4, h5,<br>
 <h1>Título</h1>
 
