@@ -7,7 +7,7 @@
 > | No requiere conocimiento de diseño web, ni saber programación<br>
 > | Se edita con bloc de notas y se guarda como archivo web.html en la carpeta local<br>
 > | Edita: texto, tipo, color, tamaño, alineación, estilo, fondo, borde, sombra, salto de línea,<br>
-> | En título, anular font-size:no; y reemplazar p por, h1, h2, h3...<br>
+> | En título, anular font-size:no; y reemplazar p por, h1, h2, h3, h4, h5,<br>
 > | Edita el archivo doc.txt desde la carpeta local<br>
 > | Edita texto en sitio web mediante widget HTML<br>
 > | Envía mensajes de email opción HTML<br>
