@@ -13,42 +13,42 @@ font-weight: no;
 
 ##	ALINEACIÓN DEL TEXTO
 
-derecha | right
-izquierda | left
-centro | center
-justificado | justify
+derecha | right<br>
+izquierda | left<br>
+centro | center<br>
+justificado | justify<br>
 
 -------------------------------------------------
 
 ##	ESTILO DEL TEXTO
 
-negrita | font-weight: bold;
-cursiva | font-style: italic;
+negrita | font-weight: bold;<br>
+cursiva | font-style: italic;<br>
 
 -------------------------------------------------
 
 ##	CÓDIGO COMPLETO
 
-font-size:27px;
-color:black;
-font-family:trebuchet ms;
-text-align:center;
-margin:10px;
-padding:10px;
-max-width:99%;
-background:#CCCCFF;
-border:solid black 3px;
-border-radius:30px;
-font-weight: bold;
-font-style: none;
-box-shadow:transparent;
+font-size:27px;<br>
+color:black;<br>
+font-family:trebuchet ms;<br>
+text-align:center;<br>
+margin:10px;<br>
+padding:10px;<br>
+max-width:99%;<br>
+background:#CCCCFF;<br>
+border:solid black 3px;<br>
+border-radius:30px;<br>
+font-weight: bold;<br>
+font-style: none;<br>
+box-shadow:transparent;<br>
 
 -------------------------------------------------
 
 ##	TRANSPARENCIA
 
-box-shadow: transparent;
-background:none;
+box-shadow: transparent;<br>
+background:none;<br>
 
 -------------------------------------------------
 
@@ -56,17 +56,17 @@ background:none;
 
 ### Solo basta con agregar el nombre del color en inglés, no requiere código numérico.
 
-negro | black
-azul | blue
-amarillo | yellow
-naranja | orange
-rojo | red
-violeta | violet
-púrpura | purple
-marrón | brown
-rosa | pink
-verde | green
-gris | gray
+negro | black<br>
+azul | blue<br>
+amarillo | yellow<br>
+naranja | orange<br>
+rojo | red<br>
+violeta | violet<br>
+púrpura | purple<br>
+marrón | brown<br>
+rosa | pink<br>
+verde | green<br>
+gris | gray<br>
 
 -------------------------------------------------
 
@@ -74,10 +74,10 @@ gris | gray
 
 ### Solo basta agregar la etiqueta light delante del color (algunos colores no aplican)
 
-gis | lightgray
-azul | lightblue
-verde | lightgreen
-amarillo | lightyellow
+gris | lightgray<br>
+azul | lightblue<br>
+verde | lightgreen<br>
+amarillo | lightyellow<br>
 
 -------------------------------------------------
 
@@ -85,33 +85,33 @@ amarillo | lightyellow
 
 ### Solo basta agregar la etiqueta dark delante del color (algunos colores no aplican).
 
-rojo | darkred
-gris | darkgray
-azul | darkblue
-verde | darkgreen
-naranja | darkorange
-violeta | darkviolet
+rojo | darkred<br>
+gris | darkgray<br>
+azul | darkblue<br>
+verde | darkgreen<br>
+naranja | darkorange<br>
+violeta | darkviolet<br>
 
 -------------------------------------------------
 
 ##	TIPOS BÁSICOS DE TEXTO USO GRATUITO
 
-Times New Roman
-Verdana
-Courier New
-Trebuchet MS
-Roboto
-Open Sans
-Lato
-Montserrat
-Exo 2
-Noto Sans
-Raleway
-Arial
-Tahoma
-Calibri
-Helvética
-Georgia
-Consolas
-Lucida Console
-Cormorant Infant
+Times New Roman<br>
+Verdana<br>
+Courier New<br>
+Trebuchet MS<br>
+Roboto<br>
+Open Sans<br>
+Lato<br>
+Montserrat<br>
+Exo 2<br>
+Noto Sans<br>
+Raleway<br>
+Arial<br>
+Tahoma<br>
+Calibri<br>
+Helvética<br>
+Georgia<br>
+Consolas<br>
+Lucida Console<br>
+Cormorant Infant<br>
