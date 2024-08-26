@@ -36,7 +36,7 @@ text-align:center;<br>
 margin:10px;<br>
 padding:10px;<br>
 max-width:99%;<br>
-background:#CCCCFF;<br>
+background:lightblue;<br>
 border:solid black 3px;<br>
 border-radius:30px;<br>
 font-weight: bold;<br>
