@@ -1,5 +1,5 @@
 # Editor de Texto HTML Gratis
-
+![Editor de Texto HTML](https://digitalrecurso.com/wp-content/uploads/2024/08/portada-editor-texto.jpg)
 ## Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
 
 > [!TIP]
