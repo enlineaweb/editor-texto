@@ -27,6 +27,13 @@ cursiva | font-style: italic;<br>
 
 -------------------------------------------------
 
+##	TÍTULO Y SUBTÍTULO
+
+h1, h2, h3, h4, h5,<br>
+<h1>Título</h1>
+
+-------------------------------------------------
+
 ##	CÓDIGO COMPLETO
 
 font-size:27px;<br>
