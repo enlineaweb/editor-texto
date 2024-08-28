@@ -8,6 +8,8 @@
 	| https://digitalrecurso.com/plantilla-web-genial-terminos
 	| Proyecto Digital IA Generativa 
 	| https://digitalrecurso.com/ia
+	| 1 Código Editor de Texto por Cada 1 Usuario
+	| https://github.com/enlineaweb/editor-texto
 	-->
 
 	<!-- META TAG SEO -->
@@ -66,15 +68,18 @@ Básico
 | No requiere conocimiento de diseño web, ni saber programación<br>
 | Se edita con bloc de notas y se guarda como archivo web.html en la carpeta local<br>
 | Edita: texto, tipo, color, tamaño, alineación, estilo, fondo, borde, sombra, salto de línea,<br>
-| En título, anular font-size:no; y reemplazar p por, h1, h2, h3, h4, h5,<br>
+| En título, anular font-size:no; y reemplazar | p | por, h1, h2, h3, h4, h5,<br>
 | Edita el archivo doc.txt desde la carpeta local<br>
 | Edita texto en sitio web mediante widget HTML<br>
 | Envía mensajes de email opción HTML<br>
 | Edita plantilla web en blanco mediante web.html edita como texto plano con bloc de notas<br>
-| Prueba, revisa, los cambios del archivo web.html desde la carpeta local, abrir con el navegador, actualizar, refrescar,<br>
 | Recupera el archivo base doc.txt desde la copia de seguridad, en caso de errores<br>
 | Anula elementos, opciones no, none, 0, en borde, color, fondo, estilo, sombra,<br>
 | Genera transparencia en sombra y fondo, opción, transparent,<br>
+| No requiere JavaScript, PHP,<br>
+| No requiere programa, software, consola, script,<br>
+| No requiere conexión a Internet, se edita Offline (OFF)<br>
+| No requiere sitio web, se prueba y revisan los cambios del archivo web.html desde la carpeta local, abriendo el navegador, actualizar, refrescar,<br>
 <br>
 
 </p>
