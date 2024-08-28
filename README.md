@@ -12,10 +12,13 @@
 > | Edita texto en sitio web mediante widget HTML<br>
 > | Envía mensajes de email opción HTML<br>
 > | Edita plantilla web en blanco mediante web.html edita como texto plano con bloc de notas<br>
-> | Prueba, revisa, los cambios del archivo web.html desde la carpeta local, abrir con el navegador, actualizar, refrescar,<br>
 > | Recupera el archivo base doc.txt desde la copia de seguridad, en caso de errores<br>
 > | Anula elementos, opciones no, none, 0, en borde, color, fondo, estilo, sombra,<br>
 > | Genera transparencia en sombra y fondo, opción, transparent,<br>
+> | No requiere JavaScript, PHP,<br>
+> | No requiere programa, software, consola, script,<br>
+> | No requiere conexión a Internet, se edita Offline (OFF)<br>
+> | No requiere sitio web, se prueba y revisan los cambios del archivo web.html desde la carpeta local, abriendo el navegador, actualizar, refrescar,<br>
 ____
 ### El Editor de Texto tiene varias ventajas y beneficios que lo hacen atractivo para los desarrolladores y usuarios. Aquí te dejo un resumen:
 
