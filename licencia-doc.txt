@@ -4,7 +4,7 @@
 	| No Puede Vender Distribuir Negociar Comerciar Copiar Este Código de Plantilla Web Genial Sin el Previo Consentimiento del Autor Esta Acción Tiene Consecuencias Legales.
 	| No Puede Retirar Este Aviso de Esta Plantilla.
 	| Términos Plantilla Web Genial 
-	| https://digitalrecurso.com/plantilla-web-genial-terminos
+	| https://digitalrecurso.com/web-genial-terminos
 	| Proyecto Digital IA Generativa 
 	| https://digitalrecurso.com/ia
 	| 1 Código Editor de Texto por Cada 1 Usuario
